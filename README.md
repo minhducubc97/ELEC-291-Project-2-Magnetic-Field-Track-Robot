@@ -8,5 +8,5 @@ I used Atmega328P-AVR microcontroller to output the appropriate voltage pulses t
 
 Below is the picture of the robot:
 
-<img src = "Image_Video/Robot_Image" width = "100" height = "200">
+<img src = "Image_Video/Robot_image.jpg" width = "100" height = "200">
 
