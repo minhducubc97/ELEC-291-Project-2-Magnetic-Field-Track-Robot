@@ -8,5 +8,5 @@ I used Atmega328P-AVR microcontroller to output the appropriate voltage pulses t
 
 Below is the picture of the robot:
 
-![alt text](https://scontent-sea1-1.xx.fbcdn.net/v/t34.0-0/p280x280/17757849_10202971545045783_275392347_n.jpg?oh=0637030ab316ecfa5c1c08a407cbe790&oe=5A013A9C)
+![17779110_10202971545045783_275392347_o](https://user-images.githubusercontent.com/31971333/32694825-4e94ab30-c6ff-11e7-872e-b5dcc2313846.jpg)
 
