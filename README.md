@@ -1,4 +1,4 @@
-# ELEC-291-Project-2-Magnetic-Field-Track-Robot
+# Project-2-Magnetic-Field-Track-Robot
 Second project
 
 For the second project of ELEC291/ELEC292, I have to design, build, program, and test a
